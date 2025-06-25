@@ -11,11 +11,11 @@ This interactive Power BI dashboard analyzes US population growth by state and c
 
 
 📊 Technologies Used
--Power BI Desktop
--DAX Measures
--Dynamic Top N Filtering
--Interactive Visualizations
--KPI Design and Storytelling
+- Power BI Desktop
+- DAX Measures
+- Dynamic Top N Filtering
+- Interactive Visualizations
+- KPI Design and Storytelling
 
 💡 Business Insights
 -US population grew from ~152 million in 1950 to ~321 million in 2015.

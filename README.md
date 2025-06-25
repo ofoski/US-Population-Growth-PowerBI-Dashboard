@@ -3,11 +3,17 @@ This interactive Power BI dashboard analyzes US population growth by state and c
 
 🔑 Key Features
 Dynamic Year Slicer (fully interactive)
+
 Total Growth (%) and Annual Growth Rate (CAGR) calculations
+
 Top 5 fastest-growing states by population
+
 Interactive line chart for population trends
+
 Detailed state-level growth table with begin & end population
+
 KPI cards for quick business insights
+
 
 📊 Technologies Used
 Power BI Desktop

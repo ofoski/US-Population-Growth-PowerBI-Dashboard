@@ -22,3 +22,7 @@ Total Growth: 111.64%
 Average Annual Growth Rate (CAGR): 1.16%
 States like Nevada, Arizona, and Florida experienced the fastest growth.
 The South and West regions contributed significantly to overall growth patterns.
+
+📷 Screenshots
+![Overview](https://github.com/user-attachments/assets/a5c95bc2-2221-4fce-bc39-aaf94238c886)
+
